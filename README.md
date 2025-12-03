@@ -1,4 +1,4 @@
-# BUMP OF CHICKEN – Hello,world!
+# BUMP OF CHICKEN – Hello, world!
 
 > **歌詞登録ステータス：同期歌詞あり**
 
