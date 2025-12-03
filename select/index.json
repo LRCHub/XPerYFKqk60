@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hello,world!",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-03T09:49:03.577861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Alan Walker feat. Torine",
+      "has_synced": true,
+      "path": "select/01_Hello_World_Alan_Walker_feat._Torine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/02_Hello_World_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/03_Hello_World_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/04_Hello_World_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hello,world!",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_Hello,world!_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hello, world!",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_Hello,_world!_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/07_Hello_World_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Nikki",
+      "has_synced": false,
+      "path": "select/08_Hello_World_Nikki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Belle Perez",
+      "has_synced": true,
+      "path": "select/09_Hello_World_Belle_Perez.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Alan Walker, Torine",
+      "has_synced": true,
+      "path": "select/10_Hello_World_Alan_Walker,_Torine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hello World Goodbye",
+      "artist": "Lonely Robot",
+      "has_synced": true,
+      "path": "select/11_Hello_World_Goodbye_Lonely_Robot.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Alan Walker & Torine",
+      "has_synced": true,
+      "path": "select/12_Hello_World_Alan_Walker_&_Torine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Kid Ink",
+      "has_synced": true,
+      "path": "select/13_Hello_World_Kid_Ink.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "Kid Ink",
+      "has_synced": true,
+      "path": "select/14_Hello_World_Kid_Ink.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hello World",
+      "artist": "The Front Bottoms",
+      "has_synced": true,
+      "path": "select/15_Hello_World_The_Front_Bottoms.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hello,world!",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_Hello,world!_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
